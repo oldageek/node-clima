@@ -6,7 +6,7 @@ Podras seleccionar una opcion del menu
 Ingresar el nombre de la ciudad que deseas, selecconar una opcion de las que te muestra
 Podrar ver informacion como temperatura maxima y minima junto con una descripcion del clima
 
-Tendras un pequeño historial de tus budquedas
+Tendras un pequeño historial de tus busquedas
 
 Se trabaja la parte del Back-end con Axios y se almacena la informacion en un archivo JSON, para
 su lectrua nuevamente al iniciar la aplicacion.
