@@ -1,8 +1,8 @@
 # node-clima
 Aplicacion del clima con node y consumo de una API 
 
-Aplicacion de consola interactiva
-Podras seleccionar una opcion del menu
+Aplicacion de consola interactiva.
+Podras seleccionar una opcion del menu.
 Ingresar el nombre de la ciudad que deseas, selecconar una opcion de las que te muestra
 Podrar ver informacion como temperatura maxima y minima junto con una descripcion del clima
 
